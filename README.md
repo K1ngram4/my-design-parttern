@@ -1,2 +1,2 @@
 # my-design-parttern
-golang设计模式
+golang设计模式练习
