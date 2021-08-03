@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-design-parttern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-design-parttern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapter/adapter.go" beforeDir="false" afterPath="$PROJECT_DIR$/02_adapter/adapter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapter/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_adapter/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facade/facade.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_facade/facade.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_facade/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_factory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/00_simple_factory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_factory/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_simple_factory/simple.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/03_singleton/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/singleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/03_singleton/singleton.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/adapter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/adapter_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/facade_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/facade_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/simple_factory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/simple_factory_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/singleton_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/singleton_test.go" afterDir="false" />
-    </list>
+    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="修改目录结构" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,7 @@
   <component name="GOROOT" url="file://D:/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -133,6 +118,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改目录结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改目录结构" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
