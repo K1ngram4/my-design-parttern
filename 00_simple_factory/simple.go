@@ -1,4 +1,4 @@
-package simple_factory
+package _0_simple_factory
 
 import (
 	"fmt"

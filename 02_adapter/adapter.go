@@ -1,4 +1,4 @@
-package adapter
+package _2_adapter
 
 //美国电器，可以在110V电压运行
 type AmericanElectric interface {

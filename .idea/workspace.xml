@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="" />
+    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-design-parttern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-design-parttern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/adapter.go" beforeDir="false" afterPath="$PROJECT_DIR$/02_adapter/adapter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_adapter/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facade/facade.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_facade/facade.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_facade/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_factory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/00_simple_factory/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_factory/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_simple_factory/simple.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/03_singleton/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/singleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/03_singleton/singleton.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/adapter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/adapter_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/facade_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/facade_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simple_factory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/simple_factory_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/singleton_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/singleton_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,70 +33,76 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" url="file://D:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1uHrx2BSizck6YVKAe2mclQvZKA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parkgateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../golang-design-pattern-master" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager" selected="Go Test.TestNewWife in my-design-parttern/test (1)">
     <configuration name="TestCoffeeMachine in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
       <working_directory value="$PROJECT_DIR$/test" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="my-design-parttern/test" />
+      <framework value="gotest" />
       <pattern value="^TestCoffeeMachine$" />
       <method v="2" />
     </configuration>
     <configuration name="TestGetMedicine in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
       <working_directory value="$PROJECT_DIR$/test" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="my-design-parttern/test" />
+      <framework value="gotest" />
       <pattern value="^TestGetMedicine$" />
       <method v="2" />
     </configuration>
     <configuration name="TestNewWife in my-design-parttern/test (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
       <working_directory value="$PROJECT_DIR$/test" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="my-design-parttern/test" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
       <pattern value="^TestNewWife$" />
       <method v="2" />
     </configuration>
     <configuration name="TestNewWife in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
       <working_directory value="$PROJECT_DIR$/test" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="my-design-parttern/test" />
+      <framework value="gotest" />
       <pattern value="^TestNewWife$" />
       <method v="2" />
     </configuration>
     <configuration name="TestParallelNewWife in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
       <working_directory value="$PROJECT_DIR$/test" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="my-design-parttern/test" />
+      <framework value="gotest" />
       <pattern value="^TestParallelNewWife$" />
       <method v="2" />
     </configuration>
@@ -91,44 +116,31 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
     <proxy>https://goproxy.cn</proxy>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1625214618052">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625214618052" />
-    <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1624776919495">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624776919495" />
-    <state width="1877" height="191" key="GridCell.Tab.0.center" timestamp="1624776919495">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624776919495" />
-    <state width="1877" height="191" key="GridCell.Tab.0.left" timestamp="1624776919495">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624776919495" />
-    <state width="1877" height="191" key="GridCell.Tab.0.right" timestamp="1624776919495">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624776919495" />
-    <state x="468" y="161" key="SettingsEditor" timestamp="1624339850492">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="468" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624339850492" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1624420358067">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624420358067" />
   </component>
 </project>
