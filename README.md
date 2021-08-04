@@ -1,5 +1,4 @@
 # my-design-parttern
-
 golang设计模式，学习笔记
 
 ## 创建型模式
@@ -34,4 +33,3 @@ golang设计模式，学习笔记
 参考
 - http://c.biancheng.net/view/1374.html
 - https://github.com/senghoo/golang-design-pattern/
-
