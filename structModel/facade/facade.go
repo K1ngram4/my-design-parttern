@@ -1,4 +1,4 @@
-package _1_facade
+package facade
 
 const (
 	registerSuccess    = "register success"

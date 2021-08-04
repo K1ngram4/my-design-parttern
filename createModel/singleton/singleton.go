@@ -1,4 +1,4 @@
-package _3_singleton
+package singleton
 
 import "sync"
 

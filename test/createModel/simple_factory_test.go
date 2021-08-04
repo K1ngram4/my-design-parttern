@@ -1,13 +1,13 @@
-package test
+package createModel
 
 import (
-	"my-design-parttern/00_simple_factory"
+	"my-design-parttern/createModel/simple_factory"
 	"testing"
 )
 
 func TestNewTesla(t *testing.T) {
 	var expect = "tesla"
-	var teslaNo1 = _0_simple_factory.NewCar(expect)
+	var teslaNo1 = simple_factory.NewCar(expect)
 	if teslaNo1 == nil {
 		t.Fatal("TestNewTesla() failed,teslaNo1 is nil")
 		return
