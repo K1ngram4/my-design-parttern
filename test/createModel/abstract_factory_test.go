@@ -7,7 +7,7 @@ func saveMainAndDetail(factory abstract_factory.DaoFactory) {
 	factory.CreateOrderDetailDao().SaveOrderDetail()
 }
 
-func ExampleRDBFactory() {
+func ExampleRDBDaoFactory() {
 	var factory abstract_factory.DaoFactory
 	factory = &abstract_factory.RDBDaoFactory{}
 	saveMainAndDetail(factory)
