@@ -1,7 +1,7 @@
-package test
+package structModel
 
 import (
-	"my-design-parttern/adapter"
+	"my-design-parttern/structModel/adapter"
 	"testing"
 )
 

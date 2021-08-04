@@ -1,7 +1,7 @@
-package test
+package createModel
 
 import (
-	"my-design-parttern/simple_factory"
+	"my-design-parttern/createModel/simple_factory"
 	"testing"
 )
 
