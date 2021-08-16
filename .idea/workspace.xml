@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="修改目录结构" />
+    <list default="true" id="78a7e70e-b36c-4b7d-8c1b-3a1e71b988c8" name="Default Changelist" comment="抽象工厂模式">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/createModel/builder/builder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/createModel/builder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/createModel/builder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +26,22 @@
   <component name="GOROOT" url="file://D:/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1uHrx2BSizck6YVKAe2mclQvZKA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,61 +59,85 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../golang-design-pattern-master" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go Test.TestNewWife in my-design-parttern/test (1)">
-    <configuration name="TestCoffeeMachine in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shiku\Desktop\myproject\my-design-parttern\struct" />
+      <recent name="C:\Users\shiku\Desktop\myproject\my-design-parttern\test" />
+      <recent name="C:\Users\shiku\Desktop\myproject\my-design-parttern\create" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shiku\Desktop\myproject\my-design-parttern\struct" />
+      <recent name="C:\Users\shiku\Desktop\myproject\my-design-parttern\test\create" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestBuilder in my-design-parttern/test/createModel">
+    <configuration name="ExampleRDBFactory in my-design-parttern/test/createModel" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
-      <working_directory value="$PROJECT_DIR$/test" />
+      <working_directory value="$PROJECT_DIR$/test/createModel" />
+      <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="my-design-parttern/test" />
+      <package value="my-design-parttern/test/createModel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^TestCoffeeMachine$" />
+      <pattern value="^\QExampleRDBFactory\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestGetMedicine in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="ExampleXMLFactory in my-design-parttern/test/createModel" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
-      <working_directory value="$PROJECT_DIR$/test" />
+      <working_directory value="$PROJECT_DIR$/test/createModel" />
+      <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="my-design-parttern/test" />
+      <package value="my-design-parttern/test/createModel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^TestGetMedicine$" />
+      <pattern value="^\QExampleXMLFactory\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestNewWife in my-design-parttern/test (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBuilder in my-design-parttern/test/createModel" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
-      <working_directory value="$PROJECT_DIR$/test" />
+      <working_directory value="$PROJECT_DIR$/test/createModel" />
+      <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="my-design-parttern/test" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
+      <package value="my-design-parttern/test/createModel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^TestNewWife$" />
+      <pattern value="^\QTestBuilder\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestNewWife in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGetMedicine in my-design-parttern/test/structModel" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
-      <working_directory value="$PROJECT_DIR$/test" />
+      <working_directory value="$PROJECT_DIR$/test/structModel" />
+      <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="my-design-parttern/test" />
+      <package value="my-design-parttern/test/structModel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^TestNewWife$" />
+      <pattern value="^\QTestGetMedicine\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestParallelNewWife in my-design-parttern/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSingleDog in my-design-parttern/test/createModel" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="my-design-parttern" />
-      <working_directory value="$PROJECT_DIR$/test" />
+      <working_directory value="$PROJECT_DIR$/test/createModel" />
+      <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="my-design-parttern/test" />
+      <package value="my-design-parttern/test/createModel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^TestParallelNewWife$" />
+      <pattern value="^\QTestSingleDog\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestNewWife in my-design-parttern/test (1)" />
-        <item itemvalue="Go Test.TestParallelNewWife in my-design-parttern/test" />
-        <item itemvalue="Go Test.TestNewWife in my-design-parttern/test" />
-        <item itemvalue="Go Test.TestCoffeeMachine in my-design-parttern/test" />
-        <item itemvalue="Go Test.TestGetMedicine in my-design-parttern/test" />
+        <item itemvalue="Go Test.TestBuilder in my-design-parttern/test/createModel" />
+        <item itemvalue="Go Test.ExampleXMLFactory in my-design-parttern/test/createModel" />
+        <item itemvalue="Go Test.ExampleRDBFactory in my-design-parttern/test/createModel" />
+        <item itemvalue="Go Test.TestSingleDog in my-design-parttern/test/createModel" />
+        <item itemvalue="Go Test.TestGetMedicine in my-design-parttern/test/structModel" />
       </list>
     </recent_temporary>
   </component>
@@ -118,10 +158,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改目录结构" />
+    <MESSAGE value="修改测试代码名字" />
+    <MESSAGE value="修改结构，提交工厂模式" />
+    <MESSAGE value="抽象工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂模式" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
